@@ -1,0 +1,16 @@
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\bin\Debug\net5.0\ProjVendedores.exe
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\bin\Debug\net5.0\ProjVendedores.deps.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\bin\Debug\net5.0\ProjVendedores.runtimeconfig.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\bin\Debug\net5.0\ProjVendedores.runtimeconfig.dev.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\bin\Debug\net5.0\ProjVendedores.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\bin\Debug\net5.0\ref\ProjVendedores.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\bin\Debug\net5.0\ProjVendedores.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.csproj.AssemblyReference.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.AssemblyInfoInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.AssemblyInfo.cs
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.csproj.CoreCompileInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ref\ProjVendedores.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjVendedores\ProjVendedores\obj\Debug\net5.0\ProjVendedores.genruntimeconfig.cache
